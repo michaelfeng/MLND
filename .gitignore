@@ -1,1 +1,4 @@
 .DS_Store
+image-classification/*.tar.gz
+image-classification/cifar-10-batches-py
+
