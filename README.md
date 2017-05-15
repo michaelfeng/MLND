@@ -14,6 +14,7 @@ Supervised Learning | [Finding Donors for CharityML](./finding_donors) | practic
 Unsupervised Learning | [Creating Customer Segments](./creating_customer_segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
 Reinforcement Learning | [Train a Smartcab to Drive](./smartcab) | reenforcement learning with Q Learning algorithms | Done
 Deep Learning | [Build a Digit Recognition Program](./digit_recognition) | digit recognition with Deep Neural Network and TensorFlow | Done 
+Deep Learning | [Build a Image Classification Program](./image_classification) | image classification on CIFAR10 with Deep Neural Network and TensorFlow | Done 
 Machine Learning Specializations | [Capstone Project](./capstone) | Image Classification using CNN and Caffe | -
 
 ## License
