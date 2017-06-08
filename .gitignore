@@ -4,5 +4,7 @@ image-classification/*.p
 image-classification/cifar-10-batches-py
 image-classification/.data-00000-of-00001
 *.data-00000-of-00001
-proposal/*.txt
-proposal/*.zip
+capstone/*.txt
+capstone/*.zip
+capstone/*.hdf
+capstone/*.pickle
