@@ -15,7 +15,7 @@ Unsupervised Learning | [Creating Customer Segments](./creating_customer_segment
 Reinforcement Learning | [Train a Smartcab to Drive](./smartcab) | reenforcement learning with Q Learning algorithms | Done
 Deep Learning | [Build a Digit Recognition Program](./digit_recognition) | digit recognition with Deep Neural Network and TensorFlow | Done 
 Deep Learning | [Build a Image Classification Program](./image-classification) | image classification on CIFAR10 with Deep Neural Network and TensorFlow | Done 
-Machine Learning Specializations | [Capstone Project](./capstone) | KDD Cup 2010 - Educational Data Mining Challenge | -
+Machine Learning Specializations | [Capstone Project](./capstone) | KDD Cup 2010 - Educational Data Mining Challenge | Done
 
 ## License
 - Original projects description, data, codes and reviews by [Udacity](www.udacity.com) should follow its licenses and [Honor Codes](https://udacity.zendesk.com/hc/en-us/articles/210667103-What-is-the-Udacity-Honor-Code-)
